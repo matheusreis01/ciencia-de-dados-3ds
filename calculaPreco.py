@@ -6,4 +6,4 @@ def calcular_preco_final(nome, preco, desconto=0):
     print(f"Preço final de {nome}: R$ {preco_final:.2f}")
 
 # Exemplo de uso
-calcular_preco_final("Fone de ouvido", 200, 20)
+calcular_preco_final("Fone de ouvido", 200, 25)
